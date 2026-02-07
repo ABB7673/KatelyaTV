@@ -1,4 +1,4 @@
-name = "katelyatv"
+name = "katelyatv76"
 compatibility_date = "2024-09-01"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -11,13 +11,13 @@ database_id = "644f54a9-c426-492d-ae09-39c570c0bfb5"
 
 # 生产环境配置
 [env.production]
-name = "katelyatv"
+name = "katelyatv76"
 
 # 生产环境 D1 数据库配置
 [[env.production.d1_databases]]
 binding = "DB"
-database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_name = "katelyatv76"
+database_id = "644f54a9-c426-492d-ae09-39c570c0bfb5"
 
 # 生产环境变量
 [env.production.vars]
@@ -45,8 +45,8 @@ name = "katelyatv-preview"
 # 预览环境 D1 数据库配置
 [[env.preview.d1_databases]]
 binding = "DB"
-database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_name = "katelyatv76"
+database_id = "644f54a9-c426-492d-ae09-39c570c0bfb5"
 
 # 预览环境变量
 [env.preview.vars]
