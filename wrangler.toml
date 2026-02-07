@@ -6,7 +6,7 @@ pages_build_output_dir = ".vercel/output/static"
 # 默认 D1 数据库配置（用于命令行操作）
 [[d1_databases]]
 binding = "DB"
-database_name = "katelyatv76-db"
+database_name = "katelyatv76"
 database_id = "644f54a9-c426-492d-ae09-39c570c0bfb5"
 
 # 生产环境配置
